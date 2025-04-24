@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# shopping-time
+
 ![Shopping Time](https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp)
 
 # [Shopping Time](https://shopping-time.vercel.app/)
@@ -29,14 +30,13 @@ Below is a comprehensive overview of the functionalities that the website offers
 ### Secure and User-Friendly Checkout
 - Multi-Step Checkout: The website features a multi-step checkout process to guide you through the purchase smoothly and securely. Each step is designed with user experience in mind.
 
-- Form Validations: To prevent errors and ensure accurate order information, the checkout page includes form validations. This guarantees that the necessary details are correctly entered, helping to streamline shopping experience.
+- Form Validations: To prevent errors and ensure accurate order information, the checkout page includes form validations. This guarantees that the necessary details are correctly entered, helping to streamline the shopping experience.
 
 ## Goals I achieved
 - Practice React Class components and then refactor to hooks
 - Build logic to choose attributes and add items to the cart
 - Add form validations
 - Use Firebase to save data externally
-
 
 ## Getting Started
 
@@ -56,10 +56,7 @@ To get started you need to:
 
 ## Contribution <a id="contribution"></a>
 
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/catherineisonline/shopping-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
+This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/catherineisonline/shopping-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes.
 
 ## License  <a id="license"></a>
 This project is released under the MIT [LICENSE](https://github.com/catherineisonline/shopping-time/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
-=======
-# shopping-time
->>>>>>> db89e52284c2edfc5c4421bf509afde24fdeb9b1

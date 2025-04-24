@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Shopping Time](https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp)
 
 # [Shopping Time](https://shopping-time.vercel.app/)
@@ -59,3 +60,6 @@ This project serves as a personal portfolio website to show off my personal skil
 
 ## License  <a id="license"></a>
 This project is released under the MIT [LICENSE](https://github.com/catherineisonline/shopping-time/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
+=======
+# shopping-time
+>>>>>>> db89e52284c2edfc5c4421bf509afde24fdeb9b1
